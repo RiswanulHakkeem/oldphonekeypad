@@ -1,0 +1,14 @@
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\bin\Debug\net8.0\OldPhoneKeyPad.exe
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\bin\Debug\net8.0\OldPhoneKeyPad.deps.json
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\bin\Debug\net8.0\OldPhoneKeyPad.runtimeconfig.json
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\bin\Debug\net8.0\OldPhoneKeyPad.dll
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\bin\Debug\net8.0\OldPhoneKeyPad.pdb
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\obj\Debug\net8.0\OldPhoneKeyPad.GeneratedMSBuildEditorConfig.editorconfig
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\obj\Debug\net8.0\OldPhoneKeyPad.AssemblyInfoInputs.cache
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\obj\Debug\net8.0\OldPhoneKeyPad.AssemblyInfo.cs
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\obj\Debug\net8.0\OldPhoneKeyPad.csproj.CoreCompileInputs.cache
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\obj\Debug\net8.0\OldPhoneKeyPad.dll
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\obj\Debug\net8.0\refint\OldPhoneKeyPad.dll
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\obj\Debug\net8.0\OldPhoneKeyPad.pdb
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\obj\Debug\net8.0\OldPhoneKeyPad.genruntimeconfig.cache
+C:\riswan\OldPhoneKeyPad\OldPhoneKeyPad\obj\Debug\net8.0\ref\OldPhoneKeyPad.dll
